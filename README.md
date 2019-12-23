@@ -1,2 +1,2 @@
 # ucd-resume
-my resume made html and css i have learnt
+a resume made with html and css i have learnt
